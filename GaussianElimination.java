@@ -33,7 +33,7 @@ public class GaussianElimination {
     }
 
     /**
-     * GaussianElimination created augmented matrix from user text file
+     * GaussianElimination creates augmented matrix from user text file
      * @param inputFile Scanner passed from getFile()
      */
     private GaussianElimination(Scanner inputFile){
