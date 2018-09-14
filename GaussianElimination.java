@@ -4,7 +4,7 @@
  * composed into reduced row echelon form.
  * Using back substitution, answers are calculated which appear in output.
  *
- * @version September 19, 2018
+ * @version September 2018
  * @author Defries, Kevin
  */
 
