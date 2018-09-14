@@ -7,3 +7,16 @@
  *
  * @version September 2018
  * @author Defries, Kevin
+
+# Example of input
+  3
+  9 3 4 7
+  4 3 4 8
+  1 1 1 3
+  
+# Example of output
+  X₀ = -.2
+
+  X₁ = 4.0
+
+  X₂ = -.8
