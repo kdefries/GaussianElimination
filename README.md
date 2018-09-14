@@ -7,16 +7,12 @@
  *
  * @version September 2018
  * @author Defries, Kevin
-
-# Example of input
-  3
-  9 3 4 7
-  4 3 4 8
-  1 1 1 3
   
-# Example of output
-  X₀ = -.2
+# Example of output from equations4.txt
+X₀ = 1.0
 
-  X₁ = 4.0
+X₁ = 2.0
 
-  X₂ = -.8
+X₂ = 3.0
+
+X₃ = 4.0
