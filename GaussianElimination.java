@@ -1,4 +1,3 @@
-package com.defries.kevin;
 /**
  * GaussianElimination inputs a users text file and uses a Scanner to read
  * the text file to create an augmented matrix. The augmented matrix is then
